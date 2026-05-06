@@ -10,6 +10,7 @@ This repository contains the official technical note for **Boundary Governance**
 It serves as the canonical reference for the **Execution Boundary (L2)** framework and its associated runtime gating patterns.
 
 The goal is to provide a clear, domain‑agnostic structure for reasoning about:
+
 - Decision‑space boundaries  
 - Runtime execution constraints  
 - Governance‑grade rationale identifiers  
@@ -24,6 +25,7 @@ This repository defines:
 
 ### 1. Execution Boundary (L2)
 A structural layer that evaluates whether a next action is executable under:
+
 - Policy constraints  
 - Identity / role  
 - Budget / resource limits  
@@ -36,12 +38,9 @@ A governance architecture that treats decision‑space as a controllable, inspec
 A method for attaching governance‑grade rationale to model behavior, enabling traceability and accountability.
 
 ---
-## Repository Structure
-/spec  
-  execution-boundary.md  
-  decision-space-identifiers.md  
 
-/examples  
+## Repository Structure
+
   runtime-gating-pseudocode.md  
 
 /references  
