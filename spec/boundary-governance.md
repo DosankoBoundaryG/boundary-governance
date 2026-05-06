@@ -299,4 +299,26 @@ Next steps:
 ---
 
 ## References
-(Your reference list here — unchanged)
+COSO (2023). Realize the Full Potential of Artificial Intelligence: Achieving Effective Internal Control Over Generative AI (GenAI).
+
+Floridi, L. (2019). Translating Principles into Practices of Digital Ethics. Philosophy & Technology.
+
+Mittelstadt, B. (2019). Principles Alone Cannot Guarantee Ethical AI. Nature Machine Intelligence, 1(11).
+
+Morley, J., et al. (2020). Operationalising AI Ethics. Big Data & Society, 7(2).
+
+NIST (2023). AI Risk Management Framework (AI RMF 1.0).
+
+IEEE (2021). IEEE 7000‑2021 — Standard for Ethical Design.
+
+Selbst, A. D., et al. (2019). Fairness and Abstraction in Sociotechnical Systems. FAccT.
+
+Raji, I. D., et al. (2020). Closing the AI Accountability Gap. FAccT.
+
+OECD (2019). Recommendation of the Council on Artificial Intelligence (OECD/LEGAL/0449).
+
+European Commission (2023). European Sustainability Reporting Standards (ESRS‑S1, ESRS‑G1).
+
+EU (2024). Regulation (EU) 2024/1689 — AI Act (as adopted June 2024).
+
+
