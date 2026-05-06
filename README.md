@@ -36,6 +36,13 @@ A governance architecture that treats decision‑space as a controllable, inspec
 A method for attaching governance‑grade rationale to model behavior, enabling traceability and accountability.
 
 ---
-
 ## Repository Structure
-# boundary-governance
+/spec  
+  execution-boundary.md  
+  decision-space-identifiers.md  
+
+/examples  
+  runtime-gating-pseudocode.md  
+
+/references  
+  external-sources.md
